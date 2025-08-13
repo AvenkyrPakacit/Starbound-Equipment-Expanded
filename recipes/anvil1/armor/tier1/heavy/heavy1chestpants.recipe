@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "leather", "count" : 4 },
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "string", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "heavyarmourtier1pants", "count" : 1 },
+  "groups" : [ "craftinganvil", "armours", "all" ]
+}

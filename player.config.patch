@@ -1,0 +1,76 @@
+[
+	[
+		{
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"heavyarmourtier1chest"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"heavyarmourtier1head"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"heavyarmourtier1pants"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"lightarmourtier1chest"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"lightarmourtier1head"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"lightarmourtier1pants"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"mediumarmourtier1chest"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"mediumarmourtier1head"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"mediumarmourtier1pants"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"powerarmourtier1chest"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"powerarmourtier1head"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"powerarmourtier1pants"}
+		}
+	]
+]
