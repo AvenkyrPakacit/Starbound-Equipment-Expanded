@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 5 },
+    { "item" : "copperbar", "count" : 3 },
+    { "item" : "upgrademodule", "count" : 1 }  
+  ],
+  "duration" : 5,
+  "output" : { "item" : "see_powerarmourtier1head", "count" : 1 },
+  "groups" : [ "craftinganvil", "armours", "all" ]
+}
