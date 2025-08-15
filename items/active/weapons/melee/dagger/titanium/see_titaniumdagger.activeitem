@@ -3,7 +3,7 @@
   "price" : 2560,
   "level" : 3,
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A simple dagger made of smelted titanium.",
   "shortdescription" : "Simple Titanium Dagger",
   "tooltipKind" : "sword",
