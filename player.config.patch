@@ -4,73 +4,85 @@
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"heavyarmourtier1chest"}
+				{"item":"see_heavyarmourtier1chest"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"heavyarmourtier1head"}
+				{"item":"see_heavyarmourtier1head"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"heavyarmourtier1pants"}
+				{"item":"see_heavyarmourtier1pants"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"lightarmourtier1chest"}
+				{"item":"see_lightarmourtier1chest"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"lightarmourtier1head"}
+				{"item":"see_lightarmourtier1head"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"lightarmourtier1pants"}
+				{"item":"see_lightarmourtier1pants"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"mediumarmourtier1chest"}
+				{"item":"see_mediumarmourtier1chest"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"mediumarmourtier1head"}
+				{"item":"see_mediumarmourtier1head"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"mediumarmourtier1pants"}
+				{"item":"see_mediumarmourtier1pants"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"powerarmourtier1chest"}
+				{"item":"see_powerarmourtier1chest"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"powerarmourtier1head"}
+				{"item":"see_powerarmourtier1head"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"powerarmourtier1pants"}
+				{"item":"see_powerarmourtier1pants"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"see_copperdagger"}
+		},
+        {
+			"op": "add",
+			"path":"/defaultBlueprints/tier1/-",
+			"value":
+				{"item":"see_irondagger"}
 		}
 	]
 ]
