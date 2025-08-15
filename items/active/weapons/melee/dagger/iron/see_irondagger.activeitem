@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "description" : "A simple dagger made of smelted iron.",
-  "shortdescription" : "Iron Dagger",
+  "shortdescription" : "Simple Iron Dagger",
   "tooltipKind" : "sword",
   "category" : "dagger",
   "twoHanded" : false,
@@ -39,7 +39,7 @@
       "damageSourceKind" : "dagger",
       "statusEffects" : [ ],
       "knockbackMode" : "aim",
-      "knockback" : 20,
+      "knockback" : 15,
       "timeoutGroup" : "primary"
     },
     "stances" : {

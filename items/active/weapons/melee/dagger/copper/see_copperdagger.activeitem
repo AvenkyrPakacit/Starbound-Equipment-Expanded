@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "description" : "A simple dagger made of smelted copper.",
-  "shortdescription" : "Copper Dagger",
+  "shortdescription" : "Simple Copper Dagger",
   "tooltipKind" : "sword",
   "category" : "dagger",
   "twoHanded" : false,

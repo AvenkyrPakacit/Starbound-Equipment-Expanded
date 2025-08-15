@@ -1,22 +1,22 @@
 {
-  "itemName" : "see_tungstendagger",
-  "price" : 1280,
-  "level" : 2,
+  "itemName" : "see_titaniumdagger",
+  "price" : 2560,
+  "level" : 3,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A simple dagger made of smelted tungsten.",
-  "shortdescription" : "Simple Tungsten Dagger",
+  "description" : "A simple dagger made of smelted titanium.",
+  "shortdescription" : "Simple Titanium Dagger",
   "tooltipKind" : "sword",
   "category" : "dagger",
   "twoHanded" : false,
   "itemTags" : ["weapon","melee","dagger","upgradeableWeapon"],
 
-  "inventoryIcon" : "see_tungstendagger.png",
+  "inventoryIcon" : "see_titaniumdagger.png",
 
   "animation" : "/items/active/weapons/melee/dagger/dagger.animation",
   "animationParts" : {
     "handle": "",
-    "blade" : "see_tungstendagger.png"
+    "blade" : "see_titaniumdagger.png"
   },
   "animationCustom" : {
     "sounds" : {
@@ -33,13 +33,13 @@
     "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
     "class" : "MeleeSlash",
 
-    "fireTime" : 1.4,
-    "baseDps" : 36.0,
+    "fireTime" : 2.8,
+    "baseDps" : 72.0,
     "damageConfig" : {
       "damageSourceKind" : "dagger",
       "statusEffects" : [ ],
       "knockbackMode" : "aim",
-      "knockback" : 20,
+      "knockback" : 25,
       "timeoutGroup" : "primary"
     },
     "stances" : {
