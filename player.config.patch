@@ -76,13 +76,13 @@
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"see_copperdaggertier1"}
+				{"item":"see_copperdagger"}
 		},
         {
 			"op": "add",
 			"path":"/defaultBlueprints/tier1/-",
 			"value":
-				{"item":"see_irondaggertier1"}
+				{"item":"see_irondagger"}
 		}
 	]
 ]
